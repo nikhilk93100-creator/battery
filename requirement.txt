@@ -1,5 +1,0 @@
-numpy
-pandas
-paho.mqtt.client
-streamlit
-python-dotenv
